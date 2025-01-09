@@ -1,7 +1,8 @@
 <div align="center">
   <br />
     <a href="#">
-      <img src="https://via.placeholder.com/800x400?text=Sidhant+Malik+Project" alt="Project Banner">
+     ![{156C03E3-69AF-4765-B5B0-E517F1BCB2FC}](https://github.com/user-attachments/assets/3f876915-110a-480b-a996-e35828cdb7fa)
+
     </a>
   <br />
 
