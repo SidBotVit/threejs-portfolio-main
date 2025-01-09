@@ -1,9 +1,7 @@
 <div align="center">
   <br />
-    <a href="#">
-     ![{156C03E3-69AF-4765-B5B0-E517F1BCB2FC}](https://github.com/user-attachments/assets/3f876915-110a-480b-a996-e35828cdb7fa)
+ ![{156C03E3-69AF-4765-B5B0-E517F1BCB2FC}](https://github.com/user-attachments/assets/ff33b2a2-386c-429c-9b01-7a888eb23998)
 
-    </a>
   <br />
 
   <div>
